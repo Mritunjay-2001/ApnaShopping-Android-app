@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1077223821092",
+    "project_id": "apna-shopping-firebase",
+    "storage_bucket": "apna-shopping-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077223821092:android:14bea0ebe1c72d1e9e6db1",
+        "android_client_info": {
+          "package_name": "com.app.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077223821092-9cm8fm28emlg8en6mrvj627dfqne5k0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV1dd1VxqNA3R82pH8jaxbbSH2T5SdJIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077223821092-9cm8fm28emlg8en6mrvj627dfqne5k0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
